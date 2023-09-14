@@ -26,7 +26,7 @@ After clone the project, type the command at terminal in the below
 
 ## How to Use
 
-1. First, click on the link below to create a MongoDB Cloud account:
+1. First, click on the link to create a MongoDB Cloud account:
 https://www.mongodb.com/cloud/atlas/register
 2. Create a Cluster for databases (recommended choose shared)
 3. Select Database option from sidebar
