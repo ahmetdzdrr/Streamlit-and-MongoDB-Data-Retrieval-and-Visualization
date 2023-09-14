@@ -12,7 +12,7 @@ This project is a Streamlit application developed to fetch Airbnb data from Mong
 
 Clone the project to your local machine and install the necessary dependencies:
 
-    ```git clone https://github.com/your-username/airbnb-analysis.git
+    git clone https://github.com/your-username/airbnb-analysis.git
 
 **********************************************************
 
@@ -20,7 +20,7 @@ Clone the project to your local machine and install the necessary dependencies:
 
 After clone the project, type the command at terminal in the below 
 
-    ```pip install -r requirements.txt
+    pip install -r requirements.txt
 
 **********************************************************
 
@@ -38,7 +38,7 @@ https://www.mongodb.com/cloud/atlas/register
 
 To start the application, you can use the following command:
 
-    '''streamlit run app.py
+    streamlit run app.py
 
 "Pull Data": It retrieves data from MongoDB and saves it to a local CSV file.
 "Show Data": It analyzes the data and displays the results.
