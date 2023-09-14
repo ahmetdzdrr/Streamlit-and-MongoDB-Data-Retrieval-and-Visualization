@@ -2,6 +2,8 @@
 
 # Airbnb Analysis with Streamlit
 
+![hq720](https://github.com/ahmetdzdrr/Streamlit-and-MongoDB-Data-Retrieval-and-Visualization/assets/117534684/ad0df98c-9488-48f6-b671-7ee60e19279b)
+
 This project is a Streamlit application developed to fetch Airbnb data from MongoDB and analyze the data.
 
 **********************************************************
