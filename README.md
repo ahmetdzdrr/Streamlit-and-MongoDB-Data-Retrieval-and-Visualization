@@ -40,7 +40,9 @@ To start the application, you can use the following command:
 
     streamlit run app.py
 
+
 "Pull Data": It retrieves data from MongoDB and saves it to a local CSV file.
+
 "Show Data": It analyzes the data and displays the results.
 
 **********************************************************
